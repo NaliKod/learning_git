@@ -1,1 +1,2 @@
 cos nowego 
+Teraz kolejny krok git pull
